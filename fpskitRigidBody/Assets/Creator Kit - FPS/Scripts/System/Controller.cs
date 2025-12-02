@@ -137,7 +137,8 @@ public class Controller : MonoBehaviour
         MainCamera.transform.localRotation = Quaternion.identity;
 
         // Get the CharacterController component attached to this GameObject
-        m_CharacterController = GetComponent<CharacterController>();
+        m_Rigidbody = GetComponent<Rigidbody>();
+        m_CapsuleCollider = GetComponent<CapsuleCollider>();
 
         // ============= WEAPON INITIALIZATION =============
         // Give the player all their starting weapons
@@ -192,9 +193,13 @@ public class Controller : MonoBehaviour
         // Flag to track if the player just lost contact with the ground
         bool loosedGrounding = false;
 
+        float rayDistance = (m_CapsuleCollider.height / 2f) + 0.1f;
+        Ray groundRay = new Ray(transform.position, Vector3.down);
+        m_Grounded = Physics.Raycast(groundRay, rayDistance);
+
         // Custom grounding system - Unity's CharacterController.isGrounded can flicker on small steps
         // We only consider the player "not grounded" if they've been off the ground for at least 0.5 seconds
-        if (!m_CharacterController.isGrounded)
+        if (!m_Grounded)
         {
             // If we think we're grounded but CharacterController says we're not
             if (m_Grounded)
@@ -229,11 +234,17 @@ public class Controller : MonoBehaviour
             // GetButtonDown ensures jump only triggers once per press (prevents bunny hopping)
             if (m_Grounded && Input.GetButtonDown("Jump"))
             {
-                // Set upward velocity
-                m_VerticalSpeed = JumpSpeed;
-                // Immediately mark as not grounded to prevent immediate re-jumping
+                // Apply instant upward velocity for jump
+                Vector3 jumpVelocity = m_Rigidbody.linearVelocity;
+                jumpVelocity.y = JumpSpeed;
+                m_Rigidbody.linearVelocity = jumpVelocity;
+
                 m_Grounded = false;
                 loosedGrounding = true;
+                FootstepPlayer.PlayClip(JumpingAudioCLip, 0.8f, 1.1f);
+            
+
+            loosedGrounding = true;
                 // Play jump sound with slight pitch variation (0.8f to 1.1f)
                 FootstepPlayer.PlayClip(JumpingAudioCLip, 0.8f, 1.1f);
             }
@@ -267,14 +278,24 @@ public class Controller : MonoBehaviour
 
             // Scale movement by speed and frame time (Time.deltaTime)
             // Time.deltaTime makes movement frame-rate independent
-            move = move * usedSpeed * Time.deltaTime;
 
-            // Convert movement from local space (relative to player) to world space
-            // TransformDirection applies the player's rotation to the movement vector
             move = transform.TransformDirection(move);
 
-            // Apply the movement using CharacterController (handles collision detection)
-            m_CharacterController.Move(move);
+            move = move * usedSpeed;
+
+            Vector3 targetVelocity = new Vector3(move.x, m_Rigidbody.linearVelocity.y, move.z);
+            m_Rigidbody.linearVelocity = Vector3.Lerp(m_Rigidbody.linearVelocity, targetVelocity, 0.1f);
+
+
+
+            //move = move * usedSpeed * Time.deltaTime;
+
+            //// Convert movement from local space (relative to player) to world space
+            //// TransformDirection applies the player's rotation to the movement vector
+            //move = transform.TransformDirection(move);
+
+            //// Apply the movement using CharacterController (handles collision detection)
+            //m_CharacterController.Move(move);
 
             // ============= MOUSE LOOK - HORIZONTAL (LEFT/RIGHT) =============
             // Get horizontal mouse movement and apply sensitivity
@@ -356,21 +377,21 @@ public class Controller : MonoBehaviour
         // ============= GRAVITY SYSTEM =============
         // Apply gravity to vertical speed - 10.0f is gravity strength (units/sec²)
         // Time.deltaTime makes gravity frame-rate independent
-        m_VerticalSpeed = m_VerticalSpeed - 10.0f * Time.deltaTime;
+        //m_VerticalSpeed = m_VerticalSpeed - 10.0f * Time.deltaTime;
 
-        // Clamp maximum fall speed to prevent infinitely fast falling
-        if (m_VerticalSpeed < -10.0f)
-            m_VerticalSpeed = -10.0f; // max fall speed
+        //// Clamp maximum fall speed to prevent infinitely fast falling
+        //if (m_VerticalSpeed < -10.0f)
+        //    m_VerticalSpeed = -10.0f; // max fall speed
 
-        // Create vertical movement vector and apply it
-        var verticalMove = new Vector3(0, m_VerticalSpeed * Time.deltaTime, 0);
-        // Move() returns collision flags indicating what was hit
-        var flag = m_CharacterController.Move(verticalMove);
+        //// Create vertical movement vector and apply it
+        //var verticalMove = new Vector3(0, m_VerticalSpeed * Time.deltaTime, 0);
+        //// Move() returns collision flags indicating what was hit
+        //var flag = m_CharacterController.Move(verticalMove);
 
-        // If we hit something below us (ground), stop falling
-        // CollisionFlags.Below indicates collision with the ground
-        if ((flag & CollisionFlags.Below) != 0)
-            m_VerticalSpeed = 0;
+        //// If we hit something below us (ground), stop falling
+        //// CollisionFlags.Below indicates collision with the ground
+        //if ((flag & CollisionFlags.Below) != 0)
+        //    m_VerticalSpeed = 0;
 
         // ============= LANDING AUDIO =============
         // If we just landed (weren't grounded last frame but are now), play landing sound
