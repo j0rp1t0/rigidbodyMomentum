@@ -91,7 +91,8 @@ public class Controller : MonoBehaviour
 
     // ============= UNITY COMPONENTS =============
     // Reference to the CharacterController component - handles collision detection and movement
-    CharacterController m_CharacterController;
+    Rigidbody m_Rigidbody;
+    CapsuleCollider m_CapsuleCollider;
 
     // ============= GROUNDING SYSTEM =============
     // Custom grounding detection (more reliable than CharacterController.isGrounded)
