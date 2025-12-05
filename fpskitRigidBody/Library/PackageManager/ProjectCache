@@ -2,7 +2,11 @@ m_ProjectFiles:
   m_ManifestFileStatus:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_FilePath: C:/Users/Walker006/Documents/GitHub/rigidbodyMomentum/fpskitRigidBody/Packages/manifest.json
+=======
+    m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/manifest.json
+>>>>>>> Stashed changes
 =======
     m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/manifest.json
 >>>>>>> Stashed changes
@@ -13,6 +17,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
       ticks: 639003135319261417
@@ -31,13 +36,23 @@ m_ProjectFiles:
   m_LockFileStatus:
     m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/packages-lock.json
 >>>>>>> Stashed changes
+=======
+      ticks: 638996122190632653
+    m_Hash: 345339519
+  m_LockFileStatus:
+    m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/packages-lock.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       ticks: 639003135319272298
+=======
+      ticks: 638996122190642658
+>>>>>>> Stashed changes
 =======
       ticks: 638996122190642658
 >>>>>>> Stashed changes
@@ -51,7 +66,11 @@ m_LocalPackages:
   m_LocalFileStatus: []
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 m_ProjectPath: C:/Users/Walker006/Documents/GitHub/rigidbodyMomentum/fpskitRigidBody/Packages
+=======
+m_ProjectPath: C:/rigidbodyMomentum/fpskitRigidBody/Packages
+>>>>>>> Stashed changes
 =======
 m_ProjectPath: C:/rigidbodyMomentum/fpskitRigidBody/Packages
 >>>>>>> Stashed changes
@@ -67,7 +86,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
 >>>>>>> Stashed changes
@@ -154,7 +177,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.tilemap@91e7def251e0
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.tilemap@91e7def251e0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.tilemap@91e7def251e0
 >>>>>>> Stashed changes
@@ -258,7 +285,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ads@a7b997f68a1d
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ads@a7b997f68a1d
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ads@a7b997f68a1d
 >>>>>>> Stashed changes
@@ -415,7 +446,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
 >>>>>>> Stashed changes
@@ -547,7 +582,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.analytics@6cc66d58ac08
 >>>>>>> Stashed changes
@@ -694,7 +733,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
 >>>>>>> Stashed changes
@@ -886,7 +929,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
 >>>>>>> Stashed changes
@@ -1026,7 +1073,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
 >>>>>>> Stashed changes
@@ -1151,7 +1202,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
 >>>>>>> Stashed changes
@@ -1252,7 +1307,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
 >>>>>>> Stashed changes
@@ -1481,7 +1540,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
 >>>>>>> Stashed changes
@@ -1578,7 +1641,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.timeline@c58b4ee65782
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.timeline@c58b4ee65782
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.timeline@c58b4ee65782
 >>>>>>> Stashed changes
@@ -1783,7 +1850,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed
 >>>>>>> Stashed changes
@@ -1907,7 +1978,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ugui@a0f5d16b3c82
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ugui@a0f5d16b3c82
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ugui@a0f5d16b3c82
 >>>>>>> Stashed changes
@@ -2010,7 +2085,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
 >>>>>>> Stashed changes
@@ -4876,7 +4955,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
 >>>>>>> Stashed changes
@@ -4985,7 +5068,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
 >>>>>>> Stashed changes
@@ -5095,7 +5182,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ext.nunit@031a54704bff
 >>>>>>> Stashed changes
@@ -5182,7 +5273,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.core@9e81a5e38245
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.core@9e81a5e38245
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.core@9e81a5e38245
 >>>>>>> Stashed changes
@@ -5323,7 +5418,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.analytics@3692623288ba
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.analytics@3692623288ba
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.analytics@3692623288ba
 >>>>>>> Stashed changes
@@ -5467,7 +5566,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
 >>>>>>> Stashed changes
