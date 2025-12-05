@@ -1,25 +1,44 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< Updated upstream
     m_FilePath: C:/Users/Walker006/Documents/GitHub/rigidbodyMomentum/fpskitRigidBody/Packages/manifest.json
+=======
+    m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/manifest.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639003135319261417
     m_Hash: 345339519
   m_LockFileStatus:
     m_FilePath: C:/Users/Walker006/Documents/GitHub/rigidbodyMomentum/fpskitRigidBody/Packages/packages-lock.json
+=======
+      ticks: 638996122190632653
+    m_Hash: 345339519
+  m_LockFileStatus:
+    m_FilePath: C:/rigidbodyMomentum/fpskitRigidBody/Packages/packages-lock.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639003135319272298
+=======
+      ticks: 638996122190642658
+>>>>>>> Stashed changes
     m_Hash: 2463942837
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
+<<<<<<< Updated upstream
 m_ProjectPath: C:/Users/Walker006/Documents/GitHub/rigidbodyMomentum/fpskitRigidBody/Packages
+=======
+m_ProjectPath: C:/rigidbodyMomentum/fpskitRigidBody/Packages
+>>>>>>> Stashed changes
 m_EditorVersion: 6000.0.51f1 (01c3ff5872c5)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +46,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.sprite@a1146c20a947
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -106,7 +129,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.tilemap@91e7def251e0
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.2d.tilemap@91e7def251e0
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -202,7 +229,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ads@a7b997f68a1d
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ads@a7b997f68a1d
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -351,7 +382,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -475,7 +510,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.analytics@6cc66d58ac08
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -614,7 +653,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.8.2
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -798,7 +841,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -930,7 +977,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1047,7 +1098,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1140,7 +1195,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.12.2
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.purchasing@649c6c7b3b1b
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -1361,7 +1420,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1450,7 +1513,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.timeline@c58b4ee65782
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.timeline@c58b4ee65782
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1647,7 +1714,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.11
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@3c4c356523ed
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.toolchain.win-x86_64-linux-x86_64
   name: com.unity.toolchain.win-x86_64-linux-x86_64
   displayName: Toolchain Win Linux x64
@@ -1763,7 +1834,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ugui@a0f5d16b3c82
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ugui@a0f5d16b3c82
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1858,7 +1933,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.12
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -4716,7 +4795,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.10
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot@7bbbb9339c14
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -4817,7 +4900,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.9
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.sysroot.linux-x86_64@1998d1c7730e
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
@@ -4919,7 +5006,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4998,7 +5089,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.14.0
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.core@9e81a5e38245
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.core@9e81a5e38245
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -5131,7 +5226,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 6.0.3
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.analytics@3692623288ba
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.services.analytics@3692623288ba
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -5267,7 +5366,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.1
   source: 1
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\Walker006\Documents\GitHub\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+=======
+  resolvedPath: C:\rigidbodyMomentum\fpskitRigidBody\Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0
+>>>>>>> Stashed changes
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
